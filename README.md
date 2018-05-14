@@ -1,0 +1,2 @@
+# PHPBingo-seat
+ビンゴシート
